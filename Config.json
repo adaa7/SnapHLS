@@ -1,0 +1,42 @@
+{
+  "root_directory": "D:/",
+  "theme": "light",
+  "vlc_snapshot_width": 0,
+  "vlc_snapshot_height": 0,
+  "snapshot_filename": "thumbnail.jpg",
+  "cover_filename": "cover.jpg",
+  "first_frame_filename": "first_frame.jpg",
+  "m3u8_filename": "playlist.m3u8",
+  "accepted_video_dir_suffix": "_hls",
+  "ftp": {
+    "enabled": false,
+    "host": "127.0.0.0.1",
+    "port": 21,
+    "username": "*****",
+    "password": "*****",
+    "base_path": "/video"
+  },
+  "preview_duration": 600,
+  "filter_id_dirs": true,
+  "grid_layout_mode": true,
+  "auto_clean_cache": true,
+  "max_cache_dirs": 1,
+  "shortcuts": {
+    "play": "B",
+    "pause": "Space",
+    "stop": "Esc",
+    "snapshot": "S",
+    "snapshot_cover": "C",
+    "settings": "F1",
+    "speed_up": "E",
+    "speed_down": "Q",
+    "speed_reset": "W"
+  },
+  "start_minimized": false,
+  "cleanup_on_exit": true,
+  "cleanup_script": "",
+  "show_only_id_folders": true,
+  "play_on_end": "重新播放",
+  "multi_thread_download": true,
+  "show_side_progress": true
+}
